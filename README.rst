@@ -6,5 +6,5 @@ new Powerline plugin.
 
 **IMPORTANT:** If you're running Linux you may not have to use a patched 
 font! See the `Powerline font installation instructions 
-<http://lokaltog.github.com/powerline/overview.html#font-installation>`_ for 
+<https://powerline.readthedocs.org/en/latest/installation/linux.html#font-installation>`_ for 
 details.
