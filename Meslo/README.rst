@@ -1,4 +1,4 @@
-Menlo for Powerline
+Meslo for Powerline
 ===================
 
 :Font creator: André Berg
