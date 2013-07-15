@@ -1,16 +1,14 @@
 STARTFONT 2.1
-FONT -xos4-Terminus for Powerline-Bold-R-Normal--32-320-72-72-C-160-ISO10646-1
+FONT -xos4-TerminessPowerline-Bold-R-Normal--32-320-72-72-C-160-ISO10646-1
 SIZE 32 72 72
 FONTBOUNDINGBOX 16 32 0 -6
-
-STARTPROPERTIES 24
+STARTPROPERTIES 23
 ADD_STYLE_NAME ""
 AVERAGE_WIDTH 160
 CHARSET_ENCODING "1"
 CHARSET_REGISTRY "ISO10646"
-COPYRIGHT "Copyright (C) 2011 Dimitar Toshkov Zhekov"
-FACE_NAME "-xos4-Terminus for Powerline-Bold-R-Normal--32-320-72-72-C-160-ISO10646-1"
-FAMILY_NAME "Terminus for Powerline"
+COPYRIGHT "Copyright (C) 2011 Dimitar Toshkov Zhekov. Copyright (c) 2013, Kim Silkebaekken, Nikolay Pavlov and Carl X. Su."
+FAMILY_NAME "Terminess Powerline"
 FOUNDRY "xos4"
 MIN_SPACE 16
 NOTICE "Licensed under the SIL Open Font License, Version 1.1"
