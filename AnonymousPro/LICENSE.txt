@@ -1,5 +1,7 @@
-Copyright (c) 2009, Mark Simonson (http://www.ms-studio.com, mark@marksimonson.com),
-with Reserved Font Name Anonymous Pro.
+Copyright (c) 2009, Mark Simonson
+  (http://www.ms-studio.com, mark@marksimonson.com),
+  with Reserved Font Name Anonymous Pro.
+Copyright (c) 2013, Kim Silkebækken and Carl X. Su.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
