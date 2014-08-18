@@ -12,6 +12,7 @@ the new Powerline plugin.
  Droid Sans Mono for Powerline      Droid Sans Mono     Apache License, Version 2.0
  Inconsolata for Powerline          Inconsolata         SIL Open Font License, Version 1.0
  Inconsolata-dz for Powerline       Inconsolata-dz      SIL Open Font License, Version 1.0
+ Inconsolata-g for Powerline        Inconsolata-g       SIL Open Font License, Version 1.0
  Literation Mono Powerline          Liberation Mono     SIL Open Font License, Version 1.1
  Meslo for Powerline                Meslo               Apache License, Version 2.0
  Sauce Code Powerline               Source Code Pro     SIL Open Font License, Version 1.1
