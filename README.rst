@@ -25,3 +25,8 @@ patched font! See the `Powerline font installation instructions`__ for
 details.
 
 __ https://powerline.readthedocs.org/en/latest/installation/linux.html#font-installation
+
+Fontconfig
+----------
+
+In some distributions, Terminess Powerline is ignored by default and must be explicitly allowed. A fontconfig file is provided which enables it. Copy this file from the fontconfig directory to your home folder under `~/.config/fontconfig/conf.d` (create it if it doesn't exist) and re-run `fc-cache -vf`.
