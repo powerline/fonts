@@ -4,6 +4,16 @@ Powerline fonts
 This repository contains pre-patched and adjusted fonts for usage with
 the new Powerline plugin.
 
+Installation
+------------
+
+Run ``./install.sh`` to install all Powerline Fonts or see the documentation_ for details.
+
+.. _documentation: https://powerline.readthedocs.org/en/latest/installation/linux.html#font-installation
+
+Font Families
+-------------
+
 ================================== =================== ====================================
  Powerline Font Family              Formerly Known As   License
 ================================== =================== ====================================
@@ -19,9 +29,3 @@ the new Powerline plugin.
  Terminess Powerline                Terminus            SIL Open Font License, Version 1.1
  Ubuntu Mono derivative Powerline   Ubuntu Mono         Ubuntu Font License, Version 1.0
 ================================== =================== ====================================
-
-**IMPORTANT:** If you're running Linux you may not have to use a
-patched font! See the `Powerline font installation instructions`__ for
-details.
-
-__ https://powerline.readthedocs.org/en/latest/installation/linux.html#font-installation
