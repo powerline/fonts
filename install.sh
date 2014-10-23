@@ -13,7 +13,7 @@ else
 fi
 
 # Copy all fonts to user fonts directory
-find_command="find $powerline_fonts_dir -name '*.[o,t]tf' -o -name '*.pcf.gz' -type f -print0"
+find_command="find $powerline_fonts_dir -name '*.[o,t]tf' -and -print0 -o -name '*.pcf.gz' -and -print0"
 eval $find_command | xargs -0 -I % cp % $font_dir/
 
 # Reset font cache on Linux
