@@ -28,4 +28,6 @@ Font Families
  Sauce Code Powerline               Source Code Pro     SIL Open Font License, Version 1.1
  Terminess Powerline                Terminus            SIL Open Font License, Version 1.1
  Ubuntu Mono derivative Powerline   Ubuntu Mono         Ubuntu Font License, Version 1.0
+ Monofur for Powerline              Monofur             Freeware
+ Fura Powerline                     FiraMono            SIL Open Font License, Version 1.1
 ================================== =================== ====================================
