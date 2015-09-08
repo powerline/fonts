@@ -1,42 +1,21 @@
 LICENSE
 
-Modified Version ("Hack") Copyright (c) 2015, Christopher Simpkins with Reserved Font Name Hack.
+Hack Copyright 2015, Christopher Simpkins with Reserved Font Name Hack.
 
-Original Version Copyright (c) 2003 Bitstream Inc. and licensed under the Bitstream Vera License
+Bitstream Vera Sans Mono Copyright 2003 Bitstream Inc. and licensed under the Bitstream Vera License with Reserved Font Names Bitstream and Vera
 
-DejaVu modifications of the original Bitstream Vera Mono typeface have been committed to the public domain.
+DejaVu modifications of the original Bitstream Vera Sans Mono typeface have been committed to the public domain.
 
 
 
-This Font Software is licensed under a modified version of the SIL Open Font License, Version 1.1 and the Bitstream Vera License.
-
-The modifications to the SIL Open Font License permit the use of multiple font licenses for the release of modified or unmodified
-versions of this font, in part or in whole.  These changes are in the preamble and section 5 of the accompanying modified SIL Open Font
-License text below.
+This Font Software is licensed under the Hack Open Font License and the Bitstream Vera License.
 
 These licenses are copied below.
 
 
-MODIFIED SIL OPEN FONT LICENSE
+HACK OPEN FONT LICENSE
 
-(Original Version 1.1 - 26 February 2007)
-
-(Modified Version 06 June 2015)
-
-PREAMBLE
-The goals of the Open Font License (OFL) are to stimulate worldwide
-development of collaborative font projects, to support the font creation
-efforts of academic and linguistic communities, and to provide a free and
-open framework in which fonts may be shared and improved in partnership
-with others.
-
-The OFL allows the licensed fonts to be used, studied, modified and
-redistributed freely as long as they are not sold by themselves. The
-fonts, including any derivative works, can be bundled, embedded,
-redistributed and/or sold with any software provided that any reserved
-names are not used by derivative works. The
-requirement for fonts to remain under this license does not apply
-to any document created using the fonts or their derivatives.
+(Version v.1.0 - 06 September 2015)
 
 DEFINITIONS
 "Font Software" refers to the set of files released by the Copyright
@@ -75,8 +54,7 @@ binary files as long as those fields can be easily viewed by the user.
 
 3) No Modified Version of the Font Software may use the Reserved Font
 Name(s) unless explicit written permission is granted by the corresponding
-Copyright Holder. This restriction only applies to the primary font name as
-presented to the users.
+Copyright Holder(s).
 
 4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
 Software shall not be used to promote, endorse or advertise any
@@ -103,8 +81,6 @@ INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
-
-
 
 
 
