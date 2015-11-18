@@ -2,9 +2,9 @@ Hack (for Powerline)
 =========================
 
 :Font creator: Christopher Simpkins
-:Version: 2.010
+:Version: 2.013
 :Source: https://github.com/chrissimpkins/Hack
-:License: SIL Open Font License, Version 1.1 (modified) + Bitstream Vera license
+:License: Hack Open Font License + Bitstream Vera license
 :License URL: https://github.com/chrissimpkins/Hack/blob/master/LICENSE.md
 :Patched by: `Christopher Simpkins <https://github.com/chrissimpkins/Hack>`_
 
