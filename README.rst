@@ -2,7 +2,7 @@ Powerline fonts
 ===============
 
 This repository contains pre-patched and adjusted fonts for usage with
-the new Powerline plugin.
+the `Powerline <https://github.com/powerline/powerline>`_ statusline plugin.
 
 Installation
 ------------
