@@ -3,7 +3,7 @@ Cousine Powerline
 
 :Font creator: Steve Matteson
 :Version: 1.21
-:Source: https://www.google.com/fonts/specimen/Arimo
+:Source: https://www.google.com/fonts/specimen/Cousine
 :License:  Apache License, Version 2.0
 :Patched by: `Loic Pefferkorn  <https://github.com/lpefferkorn>`_
 
