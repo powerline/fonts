@@ -54,3 +54,12 @@ Font Families
  Monofur for Powerline                   Monofur                   Freeware
  Fura Powerline                          FiraMono                  SIL Open Font License, Version 1.1
 ======================================= ========================= ====================================
+
+Fontconfig
+----------
+
+In some distributions, Terminess Powerline is ignored by default and must be 
+explicitly allowed. A fontconfig file is provided which enables it. Copy this 
+file from the fontconfig directory to your home folder under 
+``~/.config/fontconfig/conf.d`` (create it if it doesn't exist) and re-run 
+``fc-cache -vf``.
