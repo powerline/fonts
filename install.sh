@@ -4,10 +4,7 @@
 powerline_fonts_dir=$( cd "$( dirname "$0" )" && pwd )
 
 # if an argument is given it is used to select wich fonts to install
-prefix=''
-if [ $# = 1 ]; then
-	prefix=$1
-fi
+prefix="$1"
 
 find_command="find \"$powerline_fonts_dir\" \( -name '$prefix*.[o,t]tf' -or -name '$prefix*.pcf.gz' \) -type f -print0"
 
