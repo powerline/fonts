@@ -32,6 +32,7 @@ Font Families
 ======================================= ========================= ====================================
  Powerline Font Family                   Formerly Known As         License
 ======================================= ========================= ====================================
+ 3270                                    3270                      BSD/CCAS 3.0
  Anonymice Powerline                     Anonymous Pro             SIL Open Font License, Version 1.1
  Arimo Powerline                         Arimo                     Apache License, Version 2.0
  Cousine Powerline                       Cousine                   Apache License, Version 2.0
