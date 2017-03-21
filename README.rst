@@ -11,6 +11,21 @@ Run ``./install.sh`` to install all Powerline Fonts or see the documentation_ fo
 
 .. _documentation: https://powerline.readthedocs.org/en/latest/installation/linux.html#font-installation
 
+Quick installation
+------------------
+
+You can copy and paste the commands to your terminal. Comments are fine too.
+::
+    # clone
+    git clone https://github.com/powerline/fonts.git
+    # install
+    cd fonts
+    ./install.sh
+    # clean-up a bit
+    cd ..
+    rm -rf fonts
+
+
 Font Families
 -------------
 
