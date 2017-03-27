@@ -2,7 +2,7 @@ Fura Powerline
 ==============
 
 :Font creator: Erik Spiekermann, Ralph du Carrois (Carrois Type Design, Mozilla Foundation)
-:Version: 3.2
+:Version: 3.206
 :Source: https://github.com/mozilla/Fira
 :License: SIL OPEN FONT LICENSE Version 1.1
 :Patched by: `Tripurari Shankar <https://github.com/tripurari001>`_
