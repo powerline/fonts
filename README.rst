@@ -36,23 +36,29 @@ Font Families
  Anonymice Powerline                     Anonymous Pro             SIL Open Font License, Version 1.1
  Arimo Powerline                         Arimo                     Apache License, Version 2.0
  Cousine Powerline                       Cousine                   Apache License, Version 2.0
+ D2Coding for Powerline                  D2Coding                  SIL Open Font License, Version 1.1
  DejaVu Sans Mono for Powerline          DejaVu Sans Mono          DejaVu Fonts License, Version 1.0
  Droid Sans Mono for Powerline           Droid Sans Mono           Apache License, Version 2.0
- Droid Sans Mono Slashed for Powerline   Droid Sans Mono Slashed   Apache License, Version 2.0
  Droid Sans Mono Dotted for Powerline    Droid Sans Mono Dotted    Apache License, Version 2.0
+ Droid Sans Mono Slashed for Powerline   Droid Sans Mono Slashed   Apache License, Version 2.0
+ Fura Mono Powerline                     Fira Mono                 SIL OPEN FONT LICENSE Version 1.1
  Hack                                    Hack                      SIL OFL, v1.1 + Bitstream License
  Inconsolata for Powerline               Inconsolata               SIL Open Font License, Version 1.0
  Inconsolata-dz for Powerline            Inconsolata-dz            SIL Open Font License, Version 1.0
  Inconsolata-g for Powerline             Inconsolata-g             SIL Open Font License, Version 1.0
+ Input Mono                              Input Mono                Input’s license
  Literation Mono Powerline               Liberation Mono           SIL Open Font License, Version 1.1
  Meslo for Powerline                     Meslo                     Apache License, Version 2.0
  Sauce Code Powerline                    Source Code Pro           SIL Open Font License, Version 1.1
+ Meslo Dotted for Powerline              Meslo Dotted              Apache License, Version 2.0
+ Meslo Slashed for Powerline             Meslo Dotted              Apache License, Version 2.0
+ Monofur for Powerline                   Monofur                   Freeware
+ Noto Mono for Powerline                 Noto Mono                 SIL Open Font License, Version 1.1
+ Roboto Mono for Powerline               Roboto Mono               Apache License, Version 2.0
  Symbol Neu Powerline                    Symbol Neu                Apache License, Version 2.0
  Terminess Powerline                     Terminus                  SIL Open Font License, Version 1.1
  Tinos Powerline                         Tinos                     Apache License, Version 2.0
  Ubuntu Mono derivative Powerline        Ubuntu Mono               Ubuntu Font License, Version 1.0
- Monofur for Powerline                   Monofur                   Freeware
- Fura Powerline                          FiraMono                  SIL Open Font License, Version 1.1
 ======================================= ========================= ====================================
 
 iTerm2 users need to set both the Regular font and the Non-ASCII Font in
