@@ -2,7 +2,7 @@ SpaceMono for Powerline
 ======================
 
 :Font creator: Colophon (company)
-:Source: https://fonts.google.com/specimen/Space+Mono?query=space+mono
+:Source: github.com/googlefonts/spacemono
 :Patched by: `Dylan Vidas <https://github.com/DoctorOkay>`_
 
 Space Mono is an original fixed-width type family designed by Colophon Foundry for Google Design. It supports a Latin Extended glyph set, enabling typesetting for English and other Western European languages.
