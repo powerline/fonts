@@ -1,7 +1,7 @@
 SpaceMono for Powerline
 ======================
 
-:Font creator: Colophon (company)
+:Font creator: Colophon
 :Source: https://github.com/googlefonts/spacemono
 :Patched by: `Dylan Vidas <https://github.com/DoctorOkay>`_
 
