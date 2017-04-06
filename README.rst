@@ -59,7 +59,6 @@ Font Families
  Terminess Powerline                     Terminus                  SIL Open Font License, Version 1.1
  Tinos Powerline                         Tinos                     Apache License, Version 2.0
  Ubuntu Mono derivative Powerline        Ubuntu Mono               Ubuntu Font License, Version 1.0
- Space Mono for Powerline                Space Mono                SIL Open Font License, Version 1.1
 ======================================= ========================= ====================================
 
 iTerm2 users need to set both the Regular font and the Non-ASCII Font in
@@ -70,8 +69,8 @@ __ https://github.com/Lokaltog/powerline-fonts/issues/44
 Fontconfig
 ----------
 
-In some distributions, Terminess Powerline is ignored by default and must be
-explicitly allowed. A fontconfig file is provided which enables it. Copy this
-file from the fontconfig directory to your home folder under
-``~/.config/fontconfig/conf.d`` (create it if it doesn't exist) and re-run
+In some distributions, Terminess Powerline is ignored by default and must be 
+explicitly allowed. A fontconfig file is provided which enables it. Copy this 
+file from the fontconfig directory to your home folder under 
+``~/.config/fontconfig/conf.d`` (create it if it doesn't exist) and re-run 
 ``fc-cache -vf``.
