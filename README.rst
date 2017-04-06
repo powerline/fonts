@@ -42,6 +42,7 @@ Font Families
  Droid Sans Mono Dotted for Powerline    Droid Sans Mono Dotted    Apache License, Version 2.0
  Droid Sans Mono Slashed for Powerline   Droid Sans Mono Slashed   Apache License, Version 2.0
  Fura Mono Powerline                     Fira Mono                 SIL OPEN FONT LICENSE Version 1.1
+ Go Mono for Powerline                   Go Mono                   Go's License
  Hack                                    Hack                      SIL OFL, v1.1 + Bitstream License
  Inconsolata for Powerline               Inconsolata               SIL Open Font License, Version 1.0
  Inconsolata-dz for Powerline            Inconsolata-dz            SIL Open Font License, Version 1.0
