@@ -59,6 +59,7 @@ Font Families
  Terminess Powerline                     Terminus                  SIL Open Font License, Version 1.1
  Tinos Powerline                         Tinos                     Apache License, Version 2.0
  Ubuntu Mono derivative Powerline        Ubuntu Mono               Ubuntu Font License, Version 1.0
+ Space Mono for Powerline                Space Mono                SIL Open Font License, Version 1.1
 ======================================= ========================= ====================================
 
 iTerm2 users need to set both the Regular font and the Non-ASCII Font in
