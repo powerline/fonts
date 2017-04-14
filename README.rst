@@ -51,7 +51,7 @@ Font Families
  Literation Mono Powerline               Liberation Mono           SIL Open Font License, Version 1.1
  ProFontWindows                          ProFont for Powerline     MIT License
  Meslo for Powerline                     Meslo                     Apache License, Version 2.0
- Sauce Code Powerline                    Source Code Pro           SIL Open Font License, Version 1.1
+ Source Code Pro for Powerline           Source Code Pro           SIL Open Font License, Version 1.1
  Meslo Dotted for Powerline              Meslo Dotted              Apache License, Version 2.0
  Meslo Slashed for Powerline             Meslo Dotted              Apache License, Version 2.0
  Monofur for Powerline                   Monofur                   Freeware
