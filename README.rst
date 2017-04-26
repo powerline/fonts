@@ -47,7 +47,7 @@ Font Families
  Inconsolata for Powerline               Inconsolata               SIL Open Font License, Version 1.0
  Inconsolata-dz for Powerline            Inconsolata-dz            SIL Open Font License, Version 1.0
  Inconsolata-g for Powerline             Inconsolata-g             SIL Open Font License, Version 1.0
- Input Mono                              Input Mono                Input’s license
+ Input Mono                              Input Mono                `Input’s license <http://input.fontbureau.com/license/>`_
  Literation Mono Powerline               Liberation Mono           SIL Open Font License, Version 1.1
  ProFontWindows                          ProFont for Powerline     MIT License
  Meslo for Powerline                     Meslo                     Apache License, Version 2.0
