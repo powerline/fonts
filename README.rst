@@ -65,7 +65,7 @@ Font Families
 ======================================= ========================= ====================================
 
 iTerm2 users need to set both the Regular font and the Non-ASCII Font in
-"iTerm > Preferences > Text" to use a patched font (per `this issue`__).
+"iTerm > Preferences > Profiles > Text" to use a patched font (per `this issue`__).
 
 __ https://github.com/Lokaltog/powerline-fonts/issues/44
 
