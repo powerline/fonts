@@ -1,5 +1,5 @@
 Source Code Pro for Powerline
-============================
+=============================
 
 :Font creator: Paul D. Hunt (Adobe)
 :Version: 2.030
