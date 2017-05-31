@@ -1,4 +1,4 @@
-Fura Powerline
+Fira Powerline
 ==============
 
 :Font creator: Erik Spiekermann, Ralph du Carrois (Carrois Type Design, Mozilla Foundation)
