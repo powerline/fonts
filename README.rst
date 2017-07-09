@@ -6,7 +6,7 @@ the `Powerline <https://github.com/powerline/powerline>`_ statusline plugin.
 
 Ubuntu Installation
 ------------------
-``sudo apt-get install powerline``
+Run ``sudo apt-get install powerline``
 
 General Installation
 ------------------
