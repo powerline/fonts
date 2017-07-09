@@ -4,9 +4,12 @@ Powerline fonts
 This repository contains pre-patched and adjusted fonts for usage with
 the `Powerline <https://github.com/powerline/powerline>`_ statusline plugin.
 
-Installation
-------------
+Ubuntu Installation
+------------------
+Run ``sudo apt-get install powerline``
 
+General Installation
+------------------
 Run ``./install.sh`` to install all Powerline Fonts or see the documentation_ for details.
 
 .. _documentation: https://powerline.readthedocs.org/en/latest/installation/linux.html#fonts-installation
