@@ -17,7 +17,7 @@ Quick installation
 You can copy and paste the commands to your terminal. Comments are fine too.
 ::
     # clone
-    git clone https://github.com/powerline/fonts.git
+    git clone https://github.com/powerline/fonts.git --depth=1
     # install
     cd fonts
     ./install.sh
