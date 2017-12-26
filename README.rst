@@ -14,7 +14,12 @@ Run ``./install.sh`` to install all Powerline Fonts or see the documentation_ fo
 Quick installation
 ------------------
 
-You can copy and paste the commands to your terminal. Comments are fine too.
+If you are running a Debian or Ubuntu based Linux distribution, there should
+be a package available to install the Powerline Fonts with the following command:
+::
+	sudo apt-get install fonts-powerline
+
+On other environments, you can copy and paste these commands to your terminal. Comments are fine too.
 ::
     # clone
     git clone https://github.com/powerline/fonts.git --depth=1
