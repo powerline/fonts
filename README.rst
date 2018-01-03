@@ -19,16 +19,9 @@ be a package available to install the Powerline Fonts with the following command
 ::
 	sudo apt-get install fonts-powerline
 
-On other environments, you can copy and paste these commands to your terminal. Comments are fine too.
+On other environments, you can run the following command.
 ::
-    # clone
-    git clone https://github.com/powerline/fonts.git --depth=1
-    # install
-    cd fonts
-    ./install.sh
-    # clean-up a bit
-    cd ..
-    rm -rf fonts
+    curl https://raw.githubusercontent.com/powerline/fonts/master/install.sh | zsh
 
 Uninstall
 ---------
