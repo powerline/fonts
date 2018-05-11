@@ -32,9 +32,7 @@ foreach ($aFontName in $FontName) {
 $installDir = "./installPlease"
 $installDirItem = New-Item $installDir -ItemType Directory -Force
 
-foreach ($fontFile in $fontFiles) {
-    Copy-Item -Force -Path $fontFile.FullName -Destination $installDir -Container
-}
+$fontFiles | Copy-Item -Force -Destination $installDirItem
 
 if ($PSCmdlet.ShouldProcess($fontFiles, "Install fonts")) {
   $shellApp = New-Object -ComObject shell.application
