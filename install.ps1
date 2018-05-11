@@ -35,11 +35,13 @@ $installDirItem = New-Item $installDir -ItemType Directory -Force
 foreach ($fontFile in $fontFiles) {
     Copy-Item -Force -Path $fontFile.FullName -Destination $installDir -Container
 }
-$fonts = $null
-if (!$fonts) {
+
+if ($PSCmdlet.ShouldProcess($fontFiles, "Install fonts")) {
   $shellApp = New-Object -ComObject shell.application
   $installingFonts = $shellApp.NameSpace("$($installDirItem.FullName)")
   $fonts = $shellApp.NameSpace(0x14)
   $fonts.CopyHere($installingFonts.Items())
 }
-Remove-Item $installDir -Recurse -Force
+if (Test-Path "$installDir") {
+  Remove-Item $installDir -Recurse -Force
+}
