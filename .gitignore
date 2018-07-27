@@ -1,0 +1,2 @@
+# Ignore fontconfig .uuid files
+.uuid
