@@ -19,6 +19,10 @@ be a package available to install the Powerline Fonts with the following command
 ::
 	sudo apt-get install fonts-powerline
 
+Also available on Solus under package powerline-fonts_.
+
+.. _powerline-fonts: https://packages.solus-project.com/shannon/p/powerline-fonts/
+
 On other environments, you can copy and paste these commands to your terminal. Comments are fine too.
 ::
     # clone
