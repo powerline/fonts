@@ -1,0 +1,25 @@
+language: php
+sudo: false
+
+php:
+  - 5.6
+  - 7.0
+
+before_script:
+  - composer self-update
+  - composer install --dev --prefer-dist --no-interaction
+
+script:
+  - ./vendor/bin/phpcs --standard=ruleset.xml
+  - ./vendor/bin/phpunit -c phpunit.xml.dist --coverage-clover=coverage.xml
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
+
+cache:
+  directories:
+    - $COMPOSER_CACHE_DIR
+
+notifications:
+  email:
+    - venenorosmd@msn.com
