@@ -8,8 +8,8 @@
     C:\PS> ./install.ps1
     Installs all the fonts located in the Git repository.
 .EXAMPLE
-    C:\PS> ./install.ps1 furamono-, hack-*
-    Installs all the FuraMono and Hack fonts.
+    C:\PS> ./install.ps1 firamono-, hack-*
+    Installs all the FiraMono and Hack fonts.
 .EXAMPLE
     C:\PS> ./install.ps1 d* -WhatIf
     Shows which fonts would be installed without actually installing the fonts.
