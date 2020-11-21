@@ -300,7 +300,7 @@ function do_install_font_sets() {
     find "${base_path}" \( \
             \( -iname "${font_type}*.[ot]tf"    -or -iname "${font_type}*.pcf.gz"    \) -or \
             \( -ipath "*${font_type}*/*.[ot]tf" -or -ipath "*${font_type}*/*.pcf.gz" \) \
-        \) -type f -print0 | \
+        \) -type f -print0 2> /dev/null | \
     while IFS= read -r -d '' font_file; do
         do_install_font_file "${root_dest}" "${font_file}" "${base_path}" || break
     done
