@@ -95,3 +95,13 @@ explicitly allowed. A fontconfig file is provided which enables it. Copy `this
 file <https://github.com/powerline/fonts/blob/master/fontconfig/50-enable-terminess-powerline.conf>`_
 from the fontconfig directory to your home folder under ``~/.config/fontconfig/conf.d`` 
 (create it if it doesn't exist) and re-run ``fc-cache -vf``.
+
+Gsettings
+---------
+
+On some GNOME systems, in order to use the powerline patched font in place of a default
+font, you will need to set the new font using ``gsettings``. For example, Elementary OS's 
+Terminal (io.elementary.terminal) uses ``Roboto Mono 10`` as its default monospace font. 
+In order to use its Powerline equivalent, issue the following command:
+::
+    gsettings set io.elementary.terminal.settings font 'Roboto Mono For Powerline 10'
