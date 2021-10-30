@@ -22,7 +22,11 @@ be a package available to install the Powerline Fonts with the following command
 For fedora (tested on 28) or redhat based Linux distribution, there should also be a package available to install with the following command:
 ::
 	sudo dnf install powerline-fonts
-	
+
+For Arch-based Linux distributions:
+::
+	sudo pacman -Sy powerline-fonts
+
 On other environments, you can copy and paste these commands to your terminal. Comments are fine too.
 ::
     # clone
@@ -90,8 +94,8 @@ __ https://github.com/Lokaltog/powerline-fonts/issues/44
 Fontconfig
 ----------
 
-In some distributions, Terminess Powerline is ignored by default and must be 
+In some distributions, Terminess Powerline is ignored by default and must be
 explicitly allowed. A fontconfig file is provided which enables it. Copy `this
 file <https://github.com/powerline/fonts/blob/master/fontconfig/50-enable-terminess-powerline.conf>`_
-from the fontconfig directory to your home folder under ``~/.config/fontconfig/conf.d`` 
+from the fontconfig directory to your home folder under ``~/.config/fontconfig/conf.d``
 (create it if it doesn't exist) and re-run ``fc-cache -vf``.
