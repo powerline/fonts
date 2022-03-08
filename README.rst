@@ -19,6 +19,10 @@ be a package available to install the Powerline Fonts with the following command
 ::
 	sudo apt-get install fonts-powerline
 
+For Arch users, there should also be a package available to install via the following command:
+::
+	sudo pacman -S powerline-fonts
+
 For fedora (tested on 28) or redhat based Linux distribution, there should also be a package available to install with the following command:
 ::
 	sudo dnf install powerline-fonts
