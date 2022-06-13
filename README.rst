@@ -37,9 +37,12 @@ On other environments, you can copy and paste these commands to your terminal. C
 Uninstall
 ---------
 
-Run ``cd fonts`` then ``sh ./uninstall.sh`` to uninstall all Powerline Fonts. You can also copy
+Run ``./uninstall.sh`` to uninstall all Powerline Fonts. You can also copy
 the quick installation commands changing only the line ``./install.sh`` to
-``sh ./uninstall.sh``.
+``./uninstall.sh``.
+
+If that didn't work and produces an error, do not run again by simply adding
+ ``sudo`` in front of the command, try ``cd fonts`` then ``sh ./uninstall.sh``. 
 
 In both cases, please make sure you are working with the exact same version
 of Powerline fonts you had checked out while installing.
