@@ -22,7 +22,7 @@ be a package available to install the Powerline Fonts with the following command
 For fedora (tested on 28) or redhat based Linux distribution, there should also be a package available to install with the following command:
 ::
 	sudo dnf install powerline-fonts
-	
+
 On other environments, you can copy and paste these commands to your terminal. Comments are fine too.
 ::
     # clone
@@ -60,12 +60,14 @@ Font Families
  Droid Sans Mono Dotted for Powerline    Droid Sans Mono Dotted    Apache License, Version 2.0
  Droid Sans Mono Slashed for Powerline   Droid Sans Mono Slashed   Apache License, Version 2.0
  Fira Mono for Powerline                 Fira Mono                 SIL OPEN FONT LICENSE Version 1.1
+ Fantasque Sans Mono                     Fantasque Sans Mono       SIL OPEN FONT LICENSE Version 1.1
  Go Mono for Powerline                   Go Mono                   Go's License
  Hack                                    Hack                      SIL OFL, v1.1 + Bitstream License
  Inconsolata for Powerline               Inconsolata               SIL Open Font License, Version 1.0
  Inconsolata-dz for Powerline            Inconsolata-dz            SIL Open Font License, Version 1.0
  Inconsolata-g for Powerline             Inconsolata-g             SIL Open Font License, Version 1.0
  Input Mono                              Input Mono                `Input’s license <http://input.fontbureau.com/license/>`_
+ Lato                                    Lato                      SIL Open Font License 1.1
  Liberation Mono Powerline               Liberation Mono           SIL Open Font License, Version 1.1
  ProFontWindows                          ProFont for Powerline     MIT License
  Meslo for Powerline                     Meslo                     Apache License, Version 2.0
@@ -90,8 +92,8 @@ __ https://github.com/Lokaltog/powerline-fonts/issues/44
 Fontconfig
 ----------
 
-In some distributions, Terminess Powerline is ignored by default and must be 
+In some distributions, Terminess Powerline is ignored by default and must be
 explicitly allowed. A fontconfig file is provided which enables it. Copy `this
 file <https://github.com/powerline/fonts/blob/master/fontconfig/50-enable-terminess-powerline.conf>`_
-from the fontconfig directory to your home folder under ``~/.config/fontconfig/conf.d`` 
+from the fontconfig directory to your home folder under ``~/.config/fontconfig/conf.d``
 (create it if it doesn't exist) and re-run ``fc-cache -vf``.
