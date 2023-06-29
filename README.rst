@@ -54,7 +54,7 @@ Font Families
  Anonymice Powerline                     Anonymous Pro             SIL Open Font License, Version 1.1
  Arimo Powerline                         Arimo                     Apache License, Version 2.0
  Cousine Powerline                       Cousine                   Apache License, Version 2.0
- CPMono_v07 Powerline                    CPMono_v07                SIL Open Font License, Version 1.1
+ CPMono_v07                              CPMono_v07                SIL Open Font License, Version 1.1
  D2Coding for Powerline                  D2Coding                  SIL Open Font License, Version 1.1
  DejaVu Sans Mono for Powerline          DejaVu Sans Mono          DejaVu Fonts License, Version 1.0
  Droid Sans Mono for Powerline           Droid Sans Mono           Apache License, Version 2.0
