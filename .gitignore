@@ -1,2 +1,3 @@
 # Ignore fontconfig .uuid files
 .uuid
+.DS_Store
