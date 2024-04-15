@@ -88,6 +88,10 @@ iTerm2 users need to set both the Regular font and the Non-ASCII Font in
 
 __ https://github.com/Lokaltog/powerline-fonts/issues/44
 
+or enable `Powerline glyphs` (per `this issue`__).
+
+__ https://github.com/agnoster/agnoster-zsh-theme/issues/163#issuecomment-1026651162
+
 Fontconfig
 ----------
 
