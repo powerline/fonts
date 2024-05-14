@@ -29,13 +29,17 @@ foreach ($aFontName in $FontName) {
     Get-ChildItem $PSScriptRoot -Filter "${aFontName}.otf" -Recurse | Foreach-Object {$fontFiles.Add($_)}
 }
 
-$fonts = $null
-foreach ($fontFile in $fontFiles) {
-    if ($PSCmdlet.ShouldProcess($fontFile.Name, "Install Font")) {
-        if (!$fonts) {
-            $shellApp = New-Object -ComObject shell.application
-            $fonts = $shellApp.NameSpace(0x14)
-        }
-        $fonts.CopyHere($fontFile.FullName)
-    }
+$installDir = "./installPlease"
+$installDirItem = New-Item $installDir -ItemType Directory -Force
+
+$fontFiles | Copy-Item -Force -Destination $installDirItem
+
+if ($PSCmdlet.ShouldProcess($fontFiles, "Install fonts")) {
+  $shellApp = New-Object -ComObject shell.application
+  $installingFonts = $shellApp.NameSpace("$($installDirItem.FullName)")
+  $fonts = $shellApp.NameSpace(0x14)
+  $fonts.CopyHere($installingFonts.Items())
+}
+if (Test-Path "$installDir") {
+  Remove-Item $installDir -Recurse -Force
 }
