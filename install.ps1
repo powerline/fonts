@@ -15,7 +15,7 @@
     Shows which fonts would be installed without actually installing the fonts.
     Remove the "-WhatIf" to install the fonts.
 #>
-[CmdletBinding(SupportsShouldProcess)]
+[CmdletBinding(SupportsShouldProcess)=$True]
 param(
     # Specifies the font name to install.  Default value will install all fonts.
     [Parameter(Position=0)]
