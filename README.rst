@@ -34,6 +34,10 @@ On other environments, you can copy and paste these commands to your terminal. C
     cd ..
     rm -rf fonts
 
+Or you can run the follow script.
+::
+curl -o- https://raw.githubusercontent.com/powerline/fonts/master/get-fonts.sh | sh
+
 Uninstall
 ---------
 
