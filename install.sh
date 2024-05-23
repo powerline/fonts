@@ -9,6 +9,9 @@ prefix="$1"
 if test "$(uname)" = "Darwin" ; then
   # MacOS
   font_dir="$HOME/Library/Fonts"
+elif test "$(uname)" = "Haiku" ; then
+  # Haiku
+  font_dir="$HOME/config/non-packaged/data/fonts"
 else
   # Linux
   font_dir="$HOME/.local/share/fonts"
