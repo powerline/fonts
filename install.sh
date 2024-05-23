@@ -8,9 +8,9 @@ prefix="$1"
 
 if test "$(uname)" = "Darwin" ; then
   # MacOS
-  font_dir="$HOME/Library/Fonts"
+  font_dir="$HOME/Library/Fonts/Powerline"
 else
-  # Linux
+  # other
   font_dir="$HOME/.local/share/fonts"
   mkdir -p $font_dir
 fi
@@ -19,7 +19,7 @@ fi
 echo "Copying fonts..."
 find "$powerline_fonts_dir" \( -name "$prefix*.[ot]tf" -or -name "$prefix*.pcf.gz" \) -type f -print0 | xargs -0 -n1 -I % cp "%" "$font_dir/"
 
-# Reset font cache on Linux
+# Reset font cache on Linux (and macOS if applicable)
 if which fc-cache >/dev/null 2>&1 ; then
     echo "Resetting font cache, this may take a moment..."
     fc-cache -f "$font_dir"
